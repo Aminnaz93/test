@@ -32,5 +32,15 @@ int main() {
     printf("Age: %d\n", student1.age);
     printf("Name: %s\n", student1.name);
 
+
+    int a = 0;
+
+    while (a < 10){
+        printf("%d\n", a);
+        a++;
+    }
+    
+    
+
     return 0;
 }
