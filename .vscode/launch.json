@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aminnazari/Desktop/ProgramC/test",
+      "program": "/Users/aminnazari/Desktop/ProgramC/test/build/Debug/outDebug"
+    }
+  ]
+}
