@@ -1,12 +1,18 @@
 #include <stdio.h>
 
-double add(double a, double b) {
+
+double add(double a, double b){
+
     return a + b;
 }
 
-int main() {
-    double sum = add(2.42, 3.23);
-    printf("%f\n", sum);  // Utskrift av summan
+int main(){
+
+
+    double sum = add(3.4232, 342342.4233424);
+
+    
+    printf("%f\n", sum);
 
     return 0;
-} 
+}
